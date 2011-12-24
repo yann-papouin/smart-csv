@@ -1,3 +1,5 @@
+#summary How to install on Microsoft Excel
+
 Note: This howto is made for Microsoft Windows Vista/7/8 and Microsoft Office 2007/2010 and need to be adapted for older versions.
 
 =Install=
