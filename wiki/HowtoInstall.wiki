@@ -17,7 +17,7 @@ Go to application preferences Add-Ins, you can see Smart CSV in the list
 
 http://img220.imageshack.us/img220/9873/sshot99.png
 
-Go to the extended macro section and enable the SmartCSV checkbox to load it
+Go to the extended macro section and enable the SmartCSV checkbox to load it by default in every instances
 
 http://img855.imageshack.us/img855/115/sshot100.png
 
