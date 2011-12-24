@@ -1,9 +1,13 @@
 Note: This howto is made for Microsoft Windows Vista/7/8 and Microsoft Office 2007/2010 and need to be adapted for older versions.
 
+=Install=
+
 Download latest version of smart CSV on http://code.google.com/p/smart-csv
 
 Extract xla file to C:\Users\USERNAME\AppData\Roaming\Microsoft\AddIns where USERNAME is your actual session user name.
 Note that some folders can be hidden (google for "show hidden folders")
+
+=Activate=
 
 Start a new instance of Microsoft Excel
 
