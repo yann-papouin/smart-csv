@@ -1,0 +1,34 @@
+Note: This howto is made for Microsoft Windows Vista/7/8 and Microsoft Office 2007/2010 and need to be adapted for older versions.
+
+# Install #
+
+Download latest version of smart CSV on http://code.google.com/p/smart-csv
+
+Extract xla file to "C:\Users\USERNAME\AppData\Roaming\Microsoft\AddIns" where USERNAME is your actual session user name.
+Note that some folders can be hidden (google for "show hidden folders")
+
+# Activate #
+
+Start a new instance of Microsoft Excel
+
+![http://img69.imageshack.us/img69/6970/sshot98.png](http://img69.imageshack.us/img69/6970/sshot98.png)
+
+Go to application preferences Add-Ins, you can see Smart CSV in the list
+
+![http://img220.imageshack.us/img220/9873/sshot99.png](http://img220.imageshack.us/img220/9873/sshot99.png)
+
+Go to the extended macro section and enable the SmartCSV checkbox to load it by default in every instances
+
+![http://img855.imageshack.us/img855/115/sshot100.png](http://img855.imageshack.us/img855/115/sshot100.png)
+
+To easily access the Export macro, add a new command to the fast access bar
+
+![http://img195.imageshack.us/img195/9744/sshot102.png](http://img195.imageshack.us/img195/9744/sshot102.png)
+
+Go to Macros category list and Add the macro named "ExportActiveSheetToCSV"
+
+![http://img847.imageshack.us/img847/8210/sshot103.png](http://img847.imageshack.us/img847/8210/sshot103.png)
+
+Your quick export button is now available in the fast access bar
+
+![http://img718.imageshack.us/img718/1675/sshot105.png](http://img718.imageshack.us/img718/1675/sshot105.png)
